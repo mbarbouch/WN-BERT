@@ -10,15 +10,15 @@ We distinguish two types of models: models that convert WordNet to embeddings an
 
 To represent WordNet as embeddings we retrained [path2vec](https://github.com/uhh-lt/path2vec) (shortest path version) and [wnet2vec](https://github.com/nlx-group/WordNetEmbeddings) on all synsets of [WordNet](https://wordnet.princeton.edu/documentation/wnstats7wn). You can download these retrained models from the following links:
 
-- [path2vec](https://1drv.ms/u/s!At3ltLAV9ZCg5wRWbhNcHTkuulej?e=eoYJdS)
+- [path2vec](https://condiver-my.sharepoint.com/:u:/g/personal/m_barbouch_condiver_nl/EbaCCxn1NLBJvNP8gavMHIgB7_pJVcd7_ZBYZ5ELBkVS3g?e=6h2EaA)
     - size: increased from ~82k to ~88k.
     - PoS coverage: ~75k nouns, ~13k verbs.
-- [wnet2vec](https://1drv.ms/u/s!At3ltLAV9ZCg5wisx4ZK2FkyF6o8?e=lPhGe8)
+- [wnet2vec](https://condiver-my.sharepoint.com/:u:/g/personal/m_barbouch_condiver_nl/EUqe820VKw1MrFMV3Ek3WCEB71z6HBgdHE2KqJigsiCjvw?e=QeZTvV)
     - size: increased from ~60k to ~150k.
     - PoS coverage: all. 
 
 ### WN-BERT
 
-- [P2V-BERT](https://1drv.ms/u/s!At3ltLAV9ZCg5wWRRYZ195D8RVQI?e=Yrkv2W) (SST-2)
-- [WN2V-BERT](https://1drv.ms/u/s!At3ltLAV9ZCg5wf3yQVyKIBK_Yby?e=TMR0Ns) (SST-2)
-- [BERT](https://1drv.ms/u/s!At3ltLAV9ZCg5wbSU1dpV0tibjGw?e=rjHqhD)
+- [P2V-BERT](https://condiver-my.sharepoint.com/:u:/g/personal/m_barbouch_condiver_nl/EcbWdjEh3lJCmG8LJhYNmp0BdPGdmrJKL1ct3Zrv_CsjBw?e=CenxGY) (SST-2)
+- [WN2V-BERT](https://condiver-my.sharepoint.com/:u:/g/personal/m_barbouch_condiver_nl/EdqFuZrJSKpEiBMq9vwlRlEBfRQABOSNgkPmN7QJRhU12Q?e=RdlbWz) (SST-2)
+- [BERT](https://condiver-my.sharepoint.com/:u:/g/personal/m_barbouch_condiver_nl/EcVU6fMJH85KvpdBHfS3_zoBOoEGFxkc-ecU-6IWgim9fw?e=7Dd2ff)
